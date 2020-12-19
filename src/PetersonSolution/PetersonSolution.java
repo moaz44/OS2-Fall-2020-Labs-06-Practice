@@ -46,7 +46,7 @@ public class PetersonSolution implements Runnable {
         //exit section
         flag[threadId] = false;
 
-        //remainder section
+        
     }
 
 }
